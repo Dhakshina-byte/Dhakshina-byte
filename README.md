@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **software engineering Frameworks and innovative problem-solving techniques**
 
-- 🛠️ Skills Technical Skills: **Observation & Problem Solving/Communication/Multi-tasking/Time Management**
+- 🛠️  Technical Skills: **Observation & Problem Solving/Communication/Multi-tasking/Time Management**
 
 - 🌟 Achievements **🔒 Introduction to Cybersecurity - CISCO (2022)**
 
