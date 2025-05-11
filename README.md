@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhakshina Perera</h1>
-<h3 align="center">I’m a passionate Software Engineering student at NIBM, on a journey to explore the world of technology and build innovative solutions. I’m currently enhancing my skills in software engineering while seeking opportunities to grow and contribute to impactful projects.</h3>
+<h3 align="center">I’m a passionate Software Engineering undergraduate at Cardiff metropolitan university, on a journey to explore the world of technology and build innovative solutions. I’m currently enhancing my skills in software engineering while seeking opportunities to grow and contribute to impactful projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhakshina-byte&label=Profile%20views&color=b40e0e&style=flat-square" alt="dhakshina-byte" /> </p>
 
