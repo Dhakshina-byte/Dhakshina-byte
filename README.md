@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhakshina-byte&label=Profile%20views&color=b40e0e&style=flat-square" alt="dhakshina-byte" /> </p>
 
-- 🎓 Education **Diploma in Software Engineering (Ongoing) - NIBM Certificate in Software Engineering - NIBM (2023)**
+- 🎓 Education **Diploma in Software Engineering (Completed) - NIBM Certificate in Software Engineering - NIBM (2023)**
+- **Higher National Diploma in Software engineering - Cardiff Metropolitan University (2025)**
 
 - 🌱 I’m currently learning **software engineering Frameworks and innovative problem-solving techniques**
 
